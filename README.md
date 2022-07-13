@@ -17,3 +17,6 @@ go run .
 -dto 传输实体对象
 -entity 存储对象实体
 -middleware gin中间件
+
+
+> 对应前端库 [fish-ui](https://github.com/imtmn/fish-ui)
